@@ -1,0 +1,39 @@
+_repo: A-Book-of-Old-Ballads---Complete_7535
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Nichols, Beverley
+    alias: Nichols, John Beverley
+    birthdate: 1898
+    deathdate: 1983
+    gutenberg_agent_id: '2508'
+    url: http://www.gutenberg.org/2009/agents/2508
+    wikipedia: http://en.wikipedia.org/wiki/Beverley_Nichols
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ballads, English -- Texts'
+- GITenberg
+tableOfContents: Foreword -- Mandalay -- The frolicksome duke -- The knight and shepherd's
+  daughter -- King Estmere -- King John and the Abbot of Canterbury -- Barbara Allen's
+  Cruelty -- Fair Rosamond -- Robin Hood and Guy of Gisborne -- The boy and the mantle
+  -- The heir of Linne -- King Cophetua and the beggar maid -- Sir Andrew Barton --
+  May Collin -- The blind beggar's daughter of Bednall Green -- Thomas the rhymer
+  -- Young Beichan -- Brave Lord Willoughbey -- The Spanish lady's love -- The friar
+  of orders gray -- Clerk Colvill -- Sir Aldingar -- Edom O' Gordon -- Chevy Chace
+  -- Sir Lancelot du Lake -- Gil Morrice -- The Child of Elle -- Child Waters -- King
+  Edward IV and the tanner of Tamworth -- Sir Patrick Spens -- The Earl of Mar's daughter
+  -- Edward, Edward -- King Leir and his three daughters -- Hynd Horn -- John Brown's
+  body -- Tipperary -- The bailiff's daughter of Islington -- The three ravens --
+  The gaberlunzie man -- The wife of Usher's Well -- The lye -- The ballad of Reading
+  Gaol.
+title: A Book of Old Ballads — Complete
+url: http://www.gutenberg.org/ebooks/7535
